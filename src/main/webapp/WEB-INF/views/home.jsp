@@ -6,7 +6,8 @@
 </head>
 <body>
 <h1>
-	Hello 프로젝트!  
+	Hello 프로젝트!
+	희수님 : 열심히 하겠습니다!   
 </h1>
 
 <P>  The time on the server is ${serverTime}. </P>
