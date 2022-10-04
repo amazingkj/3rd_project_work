@@ -6,7 +6,7 @@
 </head>
 <body>
 <h1>
-	Hello 프로젝트!  소정 gOLForYou
+	Hello 프로젝트!  소정 gOLForYou 마스터 수락해주시죠
 </h1>
 
 <P>  The time on the server is ${serverTime}. </P>
