@@ -12,8 +12,7 @@
 	
 	3차 테스트
 	
-	제발 되라아아아
-	
+	제발 되라아아아~~~~~~~~~~~~~
 </h1>
 
 <P>  The time on the server is ${serverTime}. </P>
