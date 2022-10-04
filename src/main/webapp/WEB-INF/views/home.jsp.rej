@@ -1,0 +1,11 @@
+diff a/src/main/webapp/WEB-INF/views/home.jsp b/src/main/webapp/WEB-INF/views/home.jsp	(rejected hunks)
+@@ -6,8 +6,7 @@
+ </head>
+ <body>
+ <h1>
+-	Hello 프로젝트!
+-	희수님 : 열심히 하겠습니다!   
++	Hello 프로젝트!  
+ </h1>
+ 
+ <P>  The time on the server is ${serverTime}. </P>
